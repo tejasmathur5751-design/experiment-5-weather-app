@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+#weatherResult {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    max-width: 300px;
+    display: none;
+}
